@@ -13,9 +13,9 @@
                     Pour les différentes versions de l'application, nous les avons gérées en créant une branche par nouvelle fonctionnalité
                     via l'outil <b>Bitbucket</b>.
                     <br>
-                    Pour la base de données, nous avons utilisé <b>SQL Server</b>. Cependant, nous avons rencontré quelques difficultés
+                    Pour la base de données, nous avions un existant sur <b>SQL Server</b> à adapter. Cependant, nous avons rencontré quelques difficultés
                     à relier la base de données à notre application, car celle-ci utilise le framework <b>CodeIgniter</b>.
-                    Après quelques recherches, nous sommes parvenus à les relier (voir procédure téléchargeable plus bas).
+                    Après quelques recherches, nous sommes parvenus à les relier (voir la procédure téléchargeable plus bas).
                 </p>
                 <div class="center">
                     <img src="assets/images/ap/epoka-revues/logo.png" alt="Logo Epoka" width="200">
@@ -26,47 +26,47 @@
 
     <div class="card">
         <div class="center">
-            <img class="thumbnail" src="assets/images/ap/epoka/accueil.png" alt="Page d'accueil" width="750">
+            <img class="thumbnail" src="assets/images/ap/epoka-revues/accueil.png" alt="Page d'accueil" width="750">
         </div>
     </div>
 </div>
 
 <div class="card">
     <div class="swiper">
-        <div class="swiper-wrapper">
+        <div class="swiper-wrapper">            
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka/page_vente.png" alt="Formulaire d'ajout d'une vente">
-                <p>Formulaire d'ajout d'une vente</p>
-            </div>
-
-            <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka/page_image.png" alt="Formulaire d'ajout d'une image">
-                <p>Formulaire d'ajout d'une image</p>
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/jira.png" alt="Tableau kanban sur Jira">
+                <p>Tableau kanban sur Jira pour se distribuer les tâches</p>
             </div>
             
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka/page_article.png" alt="Formulaire d'ajout d'un article">
-                <p>Formulaire d'ajout d'un article</p>
-            </div>
-            
-            <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka/jira.png" alt="Tableau kanban sur Jira">
-                <p>Tableau kanban sur Jira</p>
-            </div>
-            
-            <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka/mcd.png" alt="Diagramme MCD de la base de données">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/mcd.png" alt="Diagramme MCD de la base de données">
                 <p>Diagramme MCD de la base de données</p>
             </div>
             
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka/diagramme_bd.png" alt="Diagramme de la base de données">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/diagramme_bd.png" alt="Diagramme de la base de données">
                 <p>Diagramme de la base de données</p>
             </div>
             
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka/bitbucket.png" alt="Branche master Bitbucket">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/bitbucket.png" alt="Branche master Bitbucket">
                 <p>Historique de la branche master sur Bitbucket</p>
+            </div>
+
+            <div class="mini-card girafe swiper-slide">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_vente.png" alt="Formulaire d'ajout d'une vente">
+                <p>Formulaire d'ajout d'une vente</p>
+            </div>
+
+            <div class="mini-card girafe swiper-slide">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_image.png" alt="Formulaire d'ajout d'une image">
+                <p>Formulaire d'ajout d'une image</p>
+            </div>
+            
+            <div class="mini-card girafe swiper-slide">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_article.png" alt="Formulaire d'ajout d'un article">
+                <p>Formulaire d'ajout d'un article</p>
             </div>
         </div>
 
