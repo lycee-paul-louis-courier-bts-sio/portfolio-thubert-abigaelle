@@ -18,8 +18,12 @@ switch ($details) {
         include 'vues/pages-details/s3.php';
         break;
         
-    case 's4':
-        include 'vues/pages-details/s4.php';
+    case 's4.1':
+        include 'vues/pages-details/s4.1.php';
+        break;
+        
+    case 's4.2':
+        include 'vues/pages-details/s4.2.php';
         break;
         
     case 'a1':

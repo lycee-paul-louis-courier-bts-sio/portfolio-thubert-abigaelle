@@ -14,7 +14,7 @@
                 Puis j'ai créé l'application mobile Android à l'aide du logiciel Android Studio.
             </p>
             <div class="center">
-                <img src="assets/images/ap/epoka/logo.png" alt="Logo Epoka" width="200">
+                <img src="assets/images/ap/epoka-revues/logo.png" alt="Logo Epoka" width="200">
             </div>
         </div>
     </div>

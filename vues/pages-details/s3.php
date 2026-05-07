@@ -18,7 +18,7 @@
                     Après quelques recherches, nous sommes parvenus à les relier (voir procédure téléchargeable plus bas).
                 </p>
                 <div class="center">
-                    <img src="assets/images/ap/epoka/logo.png" alt="Logo Epoka" width="200">
+                    <img src="assets/images/ap/epoka-revues/logo.png" alt="Logo Epoka" width="200">
                 </div>
             </div>
         </div>

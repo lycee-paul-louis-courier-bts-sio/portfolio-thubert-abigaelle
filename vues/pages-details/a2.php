@@ -2,22 +2,26 @@
 <div class="card">
     <div class="col">
         <h1>Stage de 2026 chez Stock2Com</h1>
-        <div class="flex-content">
+        <div class="grille-3">
             <div class="col">
                 <p>
                     Pour ma deuxième année de stage chez Stock2Com, j'ai eu une mission plus complexe que toutes celles qui l'ont précédées l'année passée.
                     Je devais avec une autre stagiaire créer un outil de statistiques pour veiller sur le nombre de données reçues des entreprises clientes.
+                    <br>
                     En effet, Stock2Com reçoit de nombreuses données de voyages proposés par ses clients, telles que le prix d’un voyage ou encore un média pour l’illustrer.
                     Ces statistiques ont pour but de faciliter l’analyse de leur indexation, par exemple avec un système d’alertes pour vite comprendre quand,
                     où et pourquoi il manque des données.
+                    <br>
                     Pour m'organiser avec l'autre stagiaire, j'ai créé une page de suivi des tâches du projet à l'aide de <b>Notion</b>.
                     <br>
-                    Ce stage m’a une fois de plus beaucoup plu. J’ai pu me refamiliariser avec Ruby on Rails et travailler cette fois-ci dans un projet plus important.
+                    Ce stage m’a une fois de plus beaucoup plu. J’ai pu me refamiliariser avec Ruby on Rails et travailler cette fois-ci sur un projet plus important.
                 </p>
             </div>
-            <divdiv class="col">
+            <div class="col">
                 <img class="thumbnail" src="assets/images/stages/2026/notion1.png" alt="Page de suivi des tâches Notion">
                 <p>Page de suivi des tâches sur Notion</p>
+            </div>
+            <div class="col">
                 <img class="thumbnail" src="assets/images/stages/2026/notion2.png" alt="Exemple tâche Notion">
                 <p>Exemple de tâche</p>
             </div>
