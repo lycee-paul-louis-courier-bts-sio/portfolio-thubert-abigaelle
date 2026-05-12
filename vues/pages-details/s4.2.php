@@ -18,7 +18,7 @@
                     elle ne contient donc que la page d'accueil actuellement.
                 </p>
                 <div class="center">
-                    <img src="assets/images/ap/epoka-revues/logo.PNG" alt="Logo Epoka" width="200">
+                    <img src="assets/images/ap/epoka-revues/logo.png" alt="Logo Epoka" width="200">
                 </div>
             </div>
         </div>

@@ -15,7 +15,7 @@
                 une seconde qui affiche tous les abonnements d'un abonné sélectionné, et une dernière qui présente un formulaire pour ajouter un abonnement.
             </p>
             <div class="center">
-                <img src="assets/images/ap/epoka-revues/logo.PNG" alt="Logo Epoka" width="200">
+                <img src="assets/images/ap/epoka-revues/logo.png" alt="Logo Epoka" width="200">
             </div>
         </div>
     </div>
