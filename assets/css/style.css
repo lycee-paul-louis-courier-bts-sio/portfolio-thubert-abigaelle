@@ -261,6 +261,18 @@ img {
     transition: 0.4s ease;
 }
 
+#lien-texte {
+    background-color: transparent;
+    color: var(--rose-fonce);
+    padding: 0;
+}
+
+#lien-texte:hover {
+    background-color: transparent;
+    color: var(--vert-clair-navbar);
+    padding: 0;
+}
+
 .card a:hover {
     background-color: var(--vert-clair);
     color: var(--text-color);
