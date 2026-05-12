@@ -8,7 +8,14 @@
                     Durant le premier semestre, nous avons travaillé sur un site pour la société fictive infoDev ICT,
                     une entreprise de services informatiques.
                     <br>
-                    Celle-ci avait besoin de moderniser son site vitrine en utilisant le CMS WordPress.
+                    Celle-ci avait besoin de moderniser son site vitrine en utilisant le CMS <b>WordPress</b>.
+                    Avec mon binôme, nous avons fait une fiche recette de l'existant pour analyser les choses à améliorer.
+                    Avant de choisir le CMS WordPress, nous l'avons comparé à ses concurrents (voir Fiche Comparative ci-dessous).
+                    Étant donné que WordPress était nouveau pour nous, nous avons réalisé une documentation de son installation.
+                    <br>
+                    Il manquait de nombreux éléments et le code comportait beaucoup d'erreurs qui ont été notées dans la fiche recette de l'existant (voir ci-dessous).
+                    Nous avons par ailleurs choisi des couleurs et polices d'écriture spécifiques pour le site,
+                    que nous avons référencé dans la charte graphique (voir ci-dessous).
                 </p>
                 <div class="center">
                     <img src="assets/images/ap/info_dev/logo.png" alt="Logo infoDev" width="400">
@@ -71,10 +78,7 @@
 <!-- liens -->
 <div class="card transparent">
     <div class="center">
-        <a download href="assets/docs/ap/info_dev/Recette_existant_infodev.pdf">
-            <span class="nav-icon material-symbols-rounded">download</span>
-            Recette de l'existant
-        </a>
+        
     </div>
     <div class="center">
         <a download href="assets/docs/ap/info_dev/Comparatif_de_CMS.pdf">

@@ -26,7 +26,7 @@
 
     <div class="card">
         <div class="center">
-            <img class="thumbnail" src="assets/images/ap/epoka-revues/accueil.png" alt="Page d'accueil" width="750">
+            <img class="thumbnail" src="assets/images/ap/epoka-revues/accueil.PNG" alt="Page d'accueil" width="750">
         </div>
     </div>
 </div>
@@ -50,22 +50,22 @@
             </div>
             
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka-revues/bitbucket.png" alt="Branche master Bitbucket">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/bitbucket.PNG" alt="Branche master Bitbucket">
                 <p>Historique de la branche master sur Bitbucket</p>
             </div>
 
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_vente.png" alt="Formulaire d'ajout d'une vente">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_vente.PNG" alt="Formulaire d'ajout d'une vente">
                 <p>Formulaire d'ajout d'une vente</p>
             </div>
 
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_image.png" alt="Formulaire d'ajout d'une image">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_image.PNG" alt="Formulaire d'ajout d'une image">
                 <p>Formulaire d'ajout d'une image</p>
             </div>
             
             <div class="mini-card girafe swiper-slide">
-                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_article.png" alt="Formulaire d'ajout d'un article">
+                <img class="thumbnail" src="assets/images/ap/epoka-revues/page_article.PNG" alt="Formulaire d'ajout d'un article">
                 <p>Formulaire d'ajout d'un article</p>
             </div>
         </div>
