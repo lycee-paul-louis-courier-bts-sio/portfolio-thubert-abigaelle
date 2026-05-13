@@ -5,15 +5,15 @@
             <h1>Epoka Presse Mobile : gestion des abonnés</h1>
             <div class="content">
                 <p>
-                    Epoka Presse est une société fictive de presse qui a besoin d'une application mobile Android pour gérer
+                    Epoka Presse est une société fictive de presse qui a besoin d'une <b>application mobile Android</b> pour gérer
                     ses abonnés. Pour ce projet, j'étais seule.
                     <br>
-                    Pour commencer, j'ai créé une application de web service de type REST utilisant SQL Server.
+                    Pour commencer, j'ai créé une application de <b>web service de type REST</b> utilisant <b>SQL Server</b>.
                     Celle-ci devait afficher les informations d'un abonné ainsi que ses abonnements
                     à partir de son code et de son mot de passe.
                     Pour cela, j'ai réutilisé la librairie de classe créée dans l'application web Jakarta de gestion des abonnés d'Epoka.
                     <br>
-                    Puis j'ai créé l'application mobile Android à l'aide du logiciel Android Studio.
+                    Puis j'ai créé l'application mobile à l'aide du logiciel <b>Android Studio</b>.
                     Je n'ai cependant pas eu le temps de finir cette application par manque de temps,
                     elle ne contient donc que la page d'accueil actuellement.
                 </p>

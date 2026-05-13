@@ -7,7 +7,7 @@
     --vert-navbar: #798e72;
     --vert-clair-navbar: #a8b79f;
     --vert-clair: #cedac7;
-    --rose-fonce: #ea97a4;
+    --rose-fonce: rgb(234, 151, 164);
     --rose: #ffdce2;
     --rose-clair: #ffedf0;
 }
@@ -279,12 +279,13 @@ img {
 }
 
 #logo_stock2com {
-    background-color: #fff;
+    background-color: transparent;
+    display: flex;
 }
 
 #logo_stock2com:hover {
-    background-color: var(--rose-clair
-    );
+    background-color: transparent;
+    transform: scale(1.2);
 }
 
 .mini-card a {
@@ -409,7 +410,6 @@ img {
 
 #photo_profil {
     position: relative;
-    filter: drop-shadow(10px 10px 10px rgba(88, 103, 83, 0.3));
     top: 5px;
 }
 
