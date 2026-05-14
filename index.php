@@ -68,7 +68,6 @@
                     slidesPerView: 4,
                     spaceBetween: 16,
                     loop: true,
-                    //mousewheel: true,
                     keyboard: {
                         enabled: true,
                     },

@@ -43,3 +43,11 @@ modal.onclick = function() {
      }, 400);
     
 }
+
+
+function ouvrir(lien) {
+    window.open(lien, '_blank');
+}
+
+const miiclick = new Audio();
+miiclick.src = "assets/mp3/miiclick.mp3"; // son boutons carousels

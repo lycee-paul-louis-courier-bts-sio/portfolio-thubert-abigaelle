@@ -7,14 +7,15 @@
     --vert-navbar: #798e72;
     --vert-clair-navbar: #a8b79f;
     --vert-clair: #cedac7;
-    --rose-fonce: rgb(234, 151, 164);
+    --rose-fonce: #ea97a4;
     --rose: #ffdce2;
     --rose-clair: #ffedf0;
+    --blanc: #fff;
 }
 
 ::selection{
   background-color : var(--vert-navbar);
-  color : #fff
+  color : var(--blanc);
 }
 
 * {
@@ -131,7 +132,7 @@ img {
     justify-content: space-between;
 }
 
-.sidebar-header .header-logo img {
+.sidebar-header img {
     width: 50px;
     /*height: 46px;*/
     display: block;
@@ -241,7 +242,7 @@ img {
 .card {
     padding: min(2vw, 16px);
     border-radius: 30px;
-    background: #fff;
+    background: var(--blanc);
     flex-grow: 1;
     box-sizing: border-box;
 }
@@ -255,7 +256,7 @@ img {
     font-size: 16px;
     align-content: center;
     background-color: var(--vert-navbar);
-    color: #fff;
+    color: var(--blanc);
     padding: 8px 16px;
     border-radius: 8px;
     transition: 0.4s ease;
@@ -285,17 +286,17 @@ img {
 
 #logo_stock2com:hover {
     background-color: transparent;
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .mini-card a {
-    background-color: #fff;
+    background-color: var(--blanc);
     color: var(--rose-fonce);
 }
 
 .mini-card a:hover {
     background-color: var(--rose-fonce);
-    color: #fff;
+    color: var(--blanc);
 }
 
 .card.transparent {
@@ -413,8 +414,8 @@ img {
     top: 5px;
 }
 
-#contact .content a {
-    background-color: #fff;
+#contact .grille-3 a {
+    background-color: transparent;
     padding: 0;
 }
 
@@ -515,7 +516,7 @@ td:last-child {
 .date {
     font-size: 15px;
     color: var(--text-color);
-    background-color: white;
+    background-color: var(--blanc);
 }
 
 .coche {
