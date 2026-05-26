@@ -9,7 +9,7 @@
                     Nous devions l'améliorer et lui ajouter de nouvelles fonctionnalités telles qu'un système de connexion pour les employés
                     et la gestion des comptes-rendus de visite.
                     <br><br>
-                    Pour cela, nous avons modifié la base de données sur <b>MySQL</b>, puis nous avons modifié le code du site en lui-même en utilisant le modèle Modèle-Vue-Controleur.
+                    Pour cela, nous avons modifié la base de données sur <b>MariaDB</b>, puis nous avons modifié le code du site en lui-même en utilisant le modèle Modèle-Vue-Controleur.
                     Nous avons aussi utilisé le framework <b>Bootstrap</b> pour s'occuper de l'esthétique. J'ai dû m'occuper des pages liées à la gestion des distributeurs.
                     <br><br>
                     Pour gérer l'organisation des tâches au sein du groupe, nous avons créé un tableau Kanban sur <b>Trello</b>.
